@@ -5,7 +5,7 @@
 ---
 
 ## Overview
-This repository contains an end-to-end UI test suite built with Playwright for the translator project. The tests are structured for a university assignment; replace the placeholders below with your **Gamage K.D.T.D**, **IT23149076**, 
+This repository contains an end-to-end UI test suite built with Playwright for the translator project. The tests are structured for a university assignment; replace the placeholders below with your **T.M.N.V Asipath**, **IT23145870**, 
 
 ## Table of contents
 - [Overview](#overview)
